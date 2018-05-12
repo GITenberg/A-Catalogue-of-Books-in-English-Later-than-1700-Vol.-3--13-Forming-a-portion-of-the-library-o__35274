@@ -15,6 +15,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35274#A-Catalogue-of-Books-in-English-Later-than-1700-Vol.-3--13-Forming-a-portion-of-the-library-o_
 gutenberg_issued: '2011-02-14'
 gutenberg_type: Text
 identifiers:
