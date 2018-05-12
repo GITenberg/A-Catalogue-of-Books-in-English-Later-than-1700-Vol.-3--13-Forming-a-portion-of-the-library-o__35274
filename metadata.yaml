@@ -1,0 +1,36 @@
+_repo: A-Catalogue-of-Books-in-English-Later-than-1700-Vol.-3--13-Forming-a-portion-of-the-library-o__35274
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Shipman, Carolyn
+    gutenberg_agent_id: '43940'
+    url: http://www.gutenberg.org/2009/agents/43940
+  other_contributor:
+    agent_name: Hoe, Robert
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '37585'
+    url: http://www.gutenberg.org/2009/agents/37585
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century -- Bibliography'
+- !lcsh 'American literature -- First editions -- Bibliography -- Catalogs'
+- !lcsh 'English literature -- 18th century -- Bibliography'
+- !lcsh 'English literature -- First editions -- Bibliography -- Catalogs'
+- !lcc 'Z'
+- !lcsh 'Rare books -- New York (State) -- New York -- Bibliography -- Catalogs'
+- !lcsh 'Private libraries -- New York (State) -- New York -- Catalogs'
+title: "A Catalogue of Books in English Later than 1700, Vol. 3\r\nForming a portion\
+  \ of the library of Robert Hoe"
+url: http://www.gutenberg.org/ebooks/35274
